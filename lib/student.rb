@@ -37,7 +37,7 @@ class Student
   end 
   
   def self.create 
-    
+    Student.new(:name, )
   end 
   
 end
